@@ -1,12 +1,12 @@
-# manCAD Simulation
+# manCAD Simulation V2
 
 Elektroschemas zeichnen und simulieren. Offizielle Windows-Downloads von **man-CAD**.
 
 ## Herunterladen und installieren
 
-[**Windows-Setup herunterladen (.exe)**](https://github.com/man-CAD/manCAD-Simulation/releases/download/v0.1.7/ManCADSimulation-Setup-0.1.7.exe)
+[**Windows-Setup V2 herunterladen (.exe)**](https://github.com/man-CAD/manCAD-Simulation/releases/download/v2.0.0/ManCADSimulation-Setup-2.0.0.exe)
 
-1. Die einzelne Datei **ManCADSimulation-Setup-0.1.7.exe** herunterladen und starten.
+1. Die einzelne Datei **ManCADSimulation-Setup-2.0.0.exe** herunterladen und starten.
 2. Die Installation abschliessen.
 3. **manCAD Simulation** über die Verknüpfung im Startmenü oder auf dem Desktop öffnen.
 
